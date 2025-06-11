@@ -1,0 +1,32 @@
+{
+  "name": "com.prony5.unity.turbojpg",
+  "version": "0.1.0",
+  "displayName": "TurboJPG",
+  "description": "TurboJPG library for Unity",
+  "unity": "2019.4",
+  "documentationUrl": "https://github.com/prony5/unity_turbojpg/README.md",
+  "keywords": [
+    "unity",
+    "logging",
+    "jpg",
+    "turbojpg",
+    "iamge"
+  ],
+  "author": {
+    "name": "Prony5",
+    "email": "prony5@yandex.ru",
+    "url": "https://github.com/prony5/unity_turbojpg"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prony5/unity_turbojpg.git"
+  },
+  "publishConfig": {},
+  "type": "library",
+  "hideInEditor": false,
+  "platforms": {
+    "win64": "Windows x64 support",
+    "linux64": "Linux support"
+  }
+}
